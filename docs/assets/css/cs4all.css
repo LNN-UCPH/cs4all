@@ -1,58 +1,45 @@
-/*
- * This file contains the tweaks specific for this Jekyll Read the Docs port.
- * This is so that the original theme.css and theme_extra.css files can be
- * easily compared with the upstream ones from MkDocs:
- * https://github.com/mkdocs/mkdocs/commits/master/mkdocs/themes/readthedocs
- */
-
-/* Footer revision string. */
-.commit code {
-    font-size: 0.9em !important;
-}
-
 :root {
     --cs4all-ink: #1f2430;
     --cs4all-muted: #5b6270;
     --cs4all-accent: #8b1e3f;
     --cs4all-accent-dark: #64142d;
     --cs4all-accent-soft: #f7e7ec;
-    --cs4all-sand: #f8f4ef;
     --cs4all-line: #e6dde0;
     --cs4all-white: #ffffff;
 }
 
-body.cs4all-site {
+body {
     color: var(--cs4all-ink);
     background: linear-gradient(180deg, #f7f3ed 0%, #ffffff 18rem);
 }
 
-.cs4all-site .wy-nav-side {
+.wy-nav-side {
     background: linear-gradient(180deg, #5d1028 0%, #781937 44%, #94254a 100%);
 }
 
-.cs4all-site .wy-side-nav-search {
+.wy-side-nav-search {
     background: transparent;
     border-bottom: 1px solid rgba(255, 255, 255, 0.14);
     padding-top: 1.6rem;
     padding-bottom: 1.3rem;
 }
 
-.cs4all-site .wy-side-nav-search > a,
-.cs4all-site .wy-nav-top a {
+.wy-side-nav-search > a,
+.wy-nav-top a {
     font-family: "Roboto Slab", serif;
     font-size: 1.4rem;
     font-weight: 700;
 }
 
-.cs4all-site .wy-menu-vertical {
+.wy-menu-vertical {
     padding-bottom: 2rem;
 }
 
-.cs4all-site .wy-menu-vertical .caption {
+.wy-menu-vertical .caption {
     margin: 1.25rem 1.5rem 0.65rem;
 }
 
-.cs4all-site .wy-menu-vertical .caption-text {
+.wy-menu-vertical .caption-text {
     color: rgba(255, 255, 255, 0.65);
     font-size: 0.72rem;
     font-weight: 700;
@@ -65,11 +52,11 @@ body.cs4all-site {
     padding: 0;
 }
 
-.cs4all-site .wy-menu-vertical li.toctree-l1 {
+.wy-menu-vertical li.toctree-l1 {
     list-style: none;
 }
 
-.cs4all-site .wy-menu-vertical a {
+.wy-menu-vertical a {
     border-radius: 0.65rem;
     color: rgba(255, 255, 255, 0.88);
     margin: 0.1rem 0.8rem;
@@ -77,35 +64,35 @@ body.cs4all-site {
     transition: background-color 120ms ease, color 120ms ease;
 }
 
-.cs4all-site .wy-menu-vertical a:hover,
-.cs4all-site .wy-menu-vertical a.current {
+.wy-menu-vertical a:hover,
+.wy-menu-vertical a.current {
     background: rgba(255, 255, 255, 0.14);
     color: var(--cs4all-white);
 }
 
-.cs4all-site .wy-menu-vertical li.current > a {
+.wy-menu-vertical li.current > a {
     background: rgba(255, 255, 255, 0.16);
     border: 0;
 }
 
-.cs4all-site .wy-menu-vertical ul {
+.wy-menu-vertical ul {
     margin-bottom: 0.35rem;
 }
 
-.cs4all-site .wy-menu-vertical ul li a {
+.wy-menu-vertical ul li a {
     padding-left: 1.5rem;
 }
 
-.cs4all-site .wy-nav-content-wrap {
+.wy-nav-content-wrap {
     background: transparent;
 }
 
-.cs4all-site .wy-nav-content {
+.wy-nav-content {
     background: transparent;
     max-width: 920px;
 }
 
-.cs4all-site .rst-content .section h1 {
+.rst-content .section h1 {
     font-family: "Roboto Slab", serif;
     font-size: 2.6rem;
     font-weight: 700;
@@ -113,17 +100,17 @@ body.cs4all-site {
     margin-bottom: 1rem;
 }
 
-.cs4all-site .rst-content .section h2,
-.cs4all-site .rst-content .section h3 {
+.rst-content .section h2,
+.rst-content .section h3 {
     font-family: "Roboto Slab", serif;
     color: var(--cs4all-accent-dark);
 }
 
-.cs4all-site .rst-content a {
+.rst-content a {
     color: var(--cs4all-accent);
 }
 
-.cs4all-site .rst-content a:hover {
+.rst-content a:hover {
     color: var(--cs4all-accent-dark);
 }
 
@@ -264,27 +251,18 @@ body.cs4all-site {
     font-size: 0.95rem;
 }
 
-.cs4all-footer {
-    color: var(--cs4all-muted);
-    font-size: 0.95rem;
-}
-
-.cs4all-footer p {
-    margin-bottom: 0.35rem;
-}
-
-.cs4all-site .rst-content table.docutils {
+.rst-content table.docutils {
     border-radius: 0.8rem;
     overflow: hidden;
 }
 
-.cs4all-site .rst-content table.docutils thead th {
+.rst-content table.docutils thead th {
     background: var(--cs4all-accent-soft);
     color: var(--cs4all-accent-dark);
 }
 
 @media screen and (max-width: 768px) {
-    .cs4all-site .rst-content .section h1 {
+    .rst-content .section h1 {
         font-size: 2.1rem;
     }
 

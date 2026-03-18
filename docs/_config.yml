@@ -1,18 +1,18 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: CS4ALL
+description: CS4ALL is DIKU's community for women and other gender minorities in computer science.
 plugins: [jekyll-remote-theme]
 remote_theme: carlosperate/jekyll-theme-rtd@v1.2.0
 
 # Theme settings docs:
 # https://carlosperate.github.io/jekyll-theme-rtd/configuration/configyml.html
-site_author: Alice Schiavone
+site_author: Department of Computer Science, University of Copenhagen
 repo_url: "https://github.com/LNN-UCPH/cs4all"
 edit_on_github: true
-logo: assets/img/jekyll-rtd-logo-250px.jpg
 favicon: assets/img/favicon/favicon.ico
 sticky_navigation: true
-prev_next_buttons_location: bottom
-search_enabled: true
+prev_next_buttons_location: none
+search_enabled: false
 hljs_style: github
 hljs_languages: [ruby, python, javascript, bash, yaml]
-display_version: 1.2.0
+extra_css:
+  - assets/css/cs4all.css
