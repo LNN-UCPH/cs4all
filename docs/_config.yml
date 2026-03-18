@@ -8,7 +8,7 @@ remote_theme: carlosperate/jekyll-theme-rtd@v1.2.0
 site_author: Department of Computer Science, University of Copenhagen
 repo_url: "https://github.com/LNN-UCPH/cs4all"
 edit_on_github: true
-logo: assets/img/cs4all-logo.jpg
+logo: assets/img/cs4all-logo-white.png
 favicon: assets/img/favicon/favicon.ico
 sticky_navigation: true
 prev_next_buttons_location: none

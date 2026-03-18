@@ -27,8 +27,14 @@ title: CS4ALL
 
 <div class="cs4all-grid">
   <a class="cs4all-card" href="{{ '/about-us/' | absolute_url }}">
-    <h3>About us</h3>
-    <p>Mission, focus, and how CS4ALL contributes to a more inclusive DIKU.</p>
+    <h3>
+        <img src="assets/img/favicon/favicon-32x32.png" alt="" style="vertical-align: middle;"> 
+        About us
+    </h3>
+    <p>
+        <img src="assets/img/cs4all-logo.jpg" alt="CS4ALL Team" style="display: block; margin-bottom: 10px; max-width: 10%;">
+        Mission, focus, and how CS4ALL contributes to a more inclusive DIKU.
+    </p>
   </a>
   <a class="cs4all-card" href="{{ '/join-us/' | absolute_url }}">
     <h3>Join us</h3>
