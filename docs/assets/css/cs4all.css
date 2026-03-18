@@ -31,6 +31,15 @@ body {
     font-weight: 700;
 }
 
+.wy-side-nav-search .logo {
+    background: rgba(255, 255, 255, 0.96);
+    border-radius: 0.9rem;
+    display: block;
+    margin: 0 auto 0.75rem;
+    max-width: 210px;
+    padding: 0.55rem;
+}
+
 .wy-menu-vertical {
     padding-bottom: 2rem;
 }
