@@ -9,6 +9,7 @@ permalink: /join-us/
 # Join us
 
 <p class="cs4all-intro">CS4ALL is open in different ways depending on whether you want to join the safe-space mailing lists or participate in the broader public events.</p>
+<p class="cs4all-intro">To subscribe, click the homepage <strong>Join us</strong> button, or send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The button does this automatically for you.</p>
 
 ## Who can join
 

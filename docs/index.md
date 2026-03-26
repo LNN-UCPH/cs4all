@@ -11,9 +11,11 @@ title: CS4ALL
   <p class="cs4all-kicker">Community, visibility, and support for gender minorities in computer science.</p>
   <p class="cs4all-lead">CS4ALL is DIKU's community for women and other gender minorities in computer science. The initiative brings people together through mailing lists, events, and practical inclusion work across the department.</p>
   <div class="cs4all-actions">
-    <a class="cs4all-button cs4all-button-primary" href="{{ '/join-us/' | absolute_url }}">Join CS4ALL</a>
+    <a class="cs4all-button cs4all-button-primary" href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">Join us</a>
+    <a class="cs4all-button cs4all-button-secondary" href="{{ '/join-us/' | absolute_url }}">How to subscribe</a>
     <a class="cs4all-button cs4all-button-secondary" href="https://di.ku.dk/english/diversity-and-inclusion/cs4all/" target="_blank" rel="noopener">Official DIKU page</a>
   </div>
+  <p class="cs4all-intro">To subscribe manually, send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The Join us button fills this in automatically in your email app.</p>
 </div>
 
 ## What CS4ALL works on
