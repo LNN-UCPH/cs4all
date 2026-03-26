@@ -9,10 +9,14 @@ permalink: /join-us/
 # Join us
 
 <p class="cs4all-intro">CS4ALL is open in different ways depending on whether you want to join the safe-space mailing lists or participate in the broader public events.</p>
+
+<p class="cs4all-intro">To subscribe manually, send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The button below does this automatically in your email app.</p>
+
 <div class="cs4all-actions">
-  <a class="cs4all-button cs4all-button-primary" href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">Join us</a>
+  <a class="cs4all-button cs4all-button-primary" href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">Join the mailing list</a>
 </div>
-<p class="cs4all-intro">To subscribe manually, send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The Join us button does this automatically in your email app.</p>
+
+
 
 ## Who can join
 
@@ -27,7 +31,7 @@ permalink: /join-us/
   </div>
 </div>
 
-## Mailing lists
+## DIKU Mailing lists - WIP
 
 <div class="cs4all-grid">
   <div class="cs4all-panel">
