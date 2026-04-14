@@ -25,9 +25,8 @@ permalink: /members/
 | Maria Maistro              | Tenure Track Assistant Professor |
 | Naja Holten Møller         | Associate Professor              |
 | Valkyrie Savage            | Tenure Track Assistant Professor |
-| Hasti Seifi                | Affiliate Associate Professor    |
 | Irina Alex Shklovski       | Professor                        |
-| Katarzyna Wac              | Visiting Professor               |
+
 
 ## Active Members
 
@@ -50,12 +49,8 @@ permalink: /members/
 
 | Name | Title |
 | --- | --- |
-| Marloes Elisabeth Arts | Former PhD Student |
-| Rikianta-Alexandra Rontogianni | Former Student |
-| Yi-Shan Wu | Former Student |
-| Maude Plucker | Former Student |
-| Emma Cathrine Liisborg Leschly | Former Student |
-
+| Katarzyna Wac | Visiting Professor |
+| Hasti Seifi | Affiliate Associate Professor |
 
 ## Want to be listed?
 
