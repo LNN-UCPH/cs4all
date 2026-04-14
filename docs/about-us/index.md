@@ -8,9 +8,8 @@ permalink: /about-us/
 
 ## At DIKU, computer science is for everyone
 
-<div class="cs4all-quote">
-  CS4ALL is the Department of Computer Science's (DIKU's) community promoting diversity  in computer science. Our mission is to bring together and lift up those who are under-represented in computer science at DIKU. This includes anyone that feels under-represented visibly (e.g., gender, ethnicity, etc.) or invisibly (e.g., sexuality, socioeconomic background, etc.). It is important to note that one’s identity is intersectional, contributing to compounding lived experiences of discrimination or privilege. By joining our community, you are agreeing to approaching everyone with patience and inclusivity, without stereotyping or stigma.
-</div>
+CS4ALL is the Department of Computer Science's (DIKU's) community promoting diversity  in computer science. Our mission is to bring together and lift up those who are under-represented in computer science at DIKU. This includes anyone that feels under-represented visibly (e.g., gender, ethnicity, etc.) or invisibly (e.g., sexuality, socioeconomic background, etc.). It is important to note that one’s identity is intersectional, contributing to compounding lived experiences of discrimination or privilege. By joining our community, you are agreeing to approaching everyone with patience and inclusivity, without stereotyping or stigma.
+
 
 ## What CS4ALL does
 
@@ -42,4 +41,4 @@ In 2021, the first CS4All meeting was organized by a group of DIKU professors ba
 
 ## Inclusive DIKU
 
-CS4All is one of DIKU's initiative for diversity and inclusion. Learn more about this and other initiatives [here](https://di.ku.dk/diversitet-og-inklusion/).
+CS4All is one of DIKU's initiative for diversity and inclusion. Learn more about this and other initiatives [here](https://di.ku.dk/diversitet-og-inklusion/), where you can also read our Code of Conduct.
