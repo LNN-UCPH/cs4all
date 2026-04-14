@@ -12,7 +12,8 @@ permalink: /members/
 
 ## Active Faculty Members
 
-| -------------------------- | -------------------------------- |
+| Name | Title |
+| --- | --- |
 | Melanie Ganz-Benjaminsen   | Associate Professor              |
 | Pepa Kostadinova Atanasova | Tenure Track Assistant Professor |
 | Isabelle Augenstein        | Professor                        |
@@ -38,6 +39,7 @@ permalink: /members/
 ## Former Students
 
 | Name | Title |
+| --- | --- |
 | Marloes Elisabeth Arts | Former PhD Student |
 | Rikianta-Alexandra Rontogianni | Former Student |
 | Yi-Shan Wu | Former Student |
@@ -46,6 +48,8 @@ permalink: /members/
 
 ## Former Faculty
 
+| Name | Title |
+| --- | --- |
 | Marloes Elisabeth Arts | Former PhD Student |
 | Rikianta-Alexandra Rontogianni | Former Student |
 | Yi-Shan Wu | Former Student |

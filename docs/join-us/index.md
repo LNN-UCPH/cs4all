@@ -9,10 +9,10 @@ permalink: /join-us/
 # Join us
 
 <p class="cs4all-intro">To receive updates about CS4ALL and our events click the button below and send the empty email that appears. </p>
+<p class="cs4all-intro">To subscribe manually, send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The Join us button does this automatically in your email app.</p>
 <div class="cs4all-actions">
   <a class="cs4all-button cs4all-button-primary" href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">Join us</a>
 </div>
-<p class="cs4all-intro">To subscribe manually, send an email to <a href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">cs4all-join@list.ku.dk</a> with <strong>Subscribe</strong> as the subject line. The Join us button does this automatically in your email app.</p>
 
 ## Who can join
 
