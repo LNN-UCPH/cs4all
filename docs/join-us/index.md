@@ -8,7 +8,7 @@ permalink: /join-us/
 
 # Join us
 
-<p class="cs4all-intro">CS4ALL is open in different ways depending on whether you want to join the safe-space mailing lists or participate in the broader public events.</p>
+<p class="cs4all-intro">To receive updates about CS4ALL and our events click the button below and send the empty email that appears. </p>
 <div class="cs4all-actions">
   <a class="cs4all-button cs4all-button-primary" href="mailto:cs4all-join@list.ku.dk?subject=Subscribe">Join us</a>
 </div>
@@ -19,34 +19,13 @@ permalink: /join-us/
 <div class="cs4all-grid">
   <div class="cs4all-panel">
     <h3>Women and other gender minorities</h3>
-    <p>All employees and students at DIKU who are women or part of another gender minority in computer science can take part in all CS4ALL initiatives, including both mailing lists and events.</p>
+    <p>All employees and students at DIKU who are under-represented in computer science can take part in all CS4ALL initiatives. This includes anyone that feels under-represented visibly (e.g., gender, ethnicity, etc.) or invisibly (e.g., sexuality, socioeconomic background, etc.).</p>
   </div>
   <div class="cs4all-panel">
     <h3>Allies and interested participants</h3>
-    <p>People who are not themselves part of a gender minority are still welcome at the open CS4ALL events, where the goal is to involve the wider department in conversations and change.</p>
+    <p>People who are not themselves part of a under-represented minority are still welcome at the open CS4ALL events, where the goal is to involve the wider department in conversations and change. However some events and spaces might be catered towards specific minorities and thus might limit access to people outside those groups.</p>
   </div>
 </div>
-
-## Mailing lists
-
-<div class="cs4all-grid">
-  <div class="cs4all-panel">
-    <h3>Staff and students list</h3>
-    <p>For DIKU employees and students with a KU email address who are part of underrepresented genders in CS.</p>
-    <p><a class="cs4all-button cs4all-button-primary" href="https://di.ku.dk/english/diversity-and-inclusion/cs4all/registration-for-cs4all/" target="_blank" rel="noopener">Open registration</a></p>
-  </div>
-  <div class="cs4all-panel">
-    <h3>Students-only list</h3>
-    <p>For students in DIKU study programmes who are part of underrepresented genders in CS and want a dedicated student list.</p>
-    <p><a class="cs4all-button cs4all-button-primary" href="https://di.ku.dk/english/diversity-and-inclusion/cs4all/registration-for-cs4all_students_only/" target="_blank" rel="noopener">Open registration</a></p>
-  </div>
-</div>
-
-## Participation expectations
-
-- You need a KU email address tied to DIKU as an employee and/or student, depending on the list.
-- The mailing lists are intended for underrepresented genders in computer science, including women, non-binary, and transgender participants.
-- Members are expected to follow the DIKU Code of Conduct and treat one another with respect.
 
 ## What to expect at events
 

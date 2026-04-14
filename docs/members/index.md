@@ -10,30 +10,35 @@ permalink: /members/
 
 <p class="cs4all-intro">The official CS4ALL page currently lists the following affiliated employees at DIKU.</p>
 
-## Affiliated employees
+## Active Members
 
 | Name | Title |
 | --- | --- |
-| Christina Lioma | Professor |
-| Irina Alex Shklovski | Professor |
-| Isabelle Augenstein | Professor |
-| Joanna Emilia Bergström | Associate Professor |
-| Madeleine Kate Wyburd | Postdoc |
-| Maria Maistro | Associate Professor |
-| Marleen de Bruijne | Professor |
-| Martina Finocchiaro | Postdoc |
-| Melanie Ganz-Benjaminsen | Associate Professor - Promotion Programme |
-| Naja Holten Møller | Associate Professor - Promotion Programme |
+| Melanie Ganz-Benjaminsen   | Associate Professor |
 | Pernille Bjørn | Professor |
-| Roberta Eleanor Hunt | Postdoc |
-| Sarah Frances Homewood | Assistant Professor - Tenure Track |
-| Simone Borg Bruun | PhD Student |
-| Stella Christina Frank | Postdoc |
-| Svetlana Kutuzova | Assistant Professor |
-| Teresa Hirzle | Assistant Professor - Tenure Track |
-| Valkyrie Savage | Assistant Professor - Tenure Track |
-| Zahra Tabatabaei | Postdoc |
+| Alice Schiavone | PhD Student |
+
+Here’s your updated table with all the people added and formatted consistently:
+
+## Former Members
+
+| Name                       | Title                            |
+| -------------------------- | -------------------------------- |
+| Pepa Kostadinova Atanasova | Tenure Track Assistant Professor |
+| Isabelle Augenstein        | Professor                        |
+| Joanna Emilia Bergström    | Associate Professor              |
+| Marleen de Bruijne         | Professor                        |
+| Teresa Hirzle              | Tenure Track Assistant Professor |
+| Sarah Frances Homewood     | Tenure Track Assistant Professor |
+| Christina Lioma            | Professor                        |
+| Maria Maistro              | Tenure Track Assistant Professor |
+| Naja Holten Møller         | Associate Professor              |
+| Valkyrie Savage            | Tenure Track Assistant Professor |
+| Hasti Seifi                | Affiliate Associate Professor    |
+| Irina Alex Shklovski       | Professor                        |
+| Katarzyna Wac              | Visiting Professor               |
+
 
 ## Want to be listed?
 
-Employees who join the staff-and-students mailing list can choose whether they want to be added to the public web list of CS4ALL affiliated employees at DIKU.
+Reach out to Alice Schiavone (alsc[at]di.ku.dk) to be listed.
