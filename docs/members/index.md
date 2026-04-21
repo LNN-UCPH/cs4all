@@ -24,6 +24,7 @@ permalink: /members/
 | Christina Lioma            | Professor                        |
 | Maria Maistro              | Tenure Track Assistant Professor |
 | Naja Holten Møller         | Associate Professor              |
+| Boel Nelson                | Tenure Track Assistant Professor |
 | Valkyrie Savage            | Tenure Track Assistant Professor |
 | Irina Alex Shklovski       | Professor                        |
 
@@ -32,7 +33,14 @@ permalink: /members/
 
 | Name | Title |
 | --- | --- |
+| Llucia Coll | Post Doc |
+| Eva Kroon Enevoldsen | PhD Student |
+| Martina Finocchiaro | Post Doc |
+| Jonatan Ruiz-Molsgaard | PhD Student |
 | Alice Schiavone | PhD Student |
+| Zahra Tabatabaei | Post Doc |
+| Alissa Valentine | Post Doc |
+| Maddy Wyburd | Post Doc |
 
 
 ## Former Students
