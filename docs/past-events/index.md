@@ -11,6 +11,7 @@ permalink: /past-events/
 By now we have had several CS4ALL events, approximately one each semester.
 
 <div class="cs4all-grid">
+
   <div class="cs4all-panel">
     <h3>Interactive first meeting</h3>
     <p class="cs4all-meta">Fall 2022</p>
@@ -55,5 +56,11 @@ By now we have had several CS4ALL events, approximately one each semester.
     <h3>Social event for students</h3>
     <p class="cs4all-meta">Spring 2026</p>
     <p>A social event focusing on the students' needs and suggestions.</p>
+  </div>
+
+  <div class="cs4all-panel">
+    <h3>Welcome Back to Campus: Inequities in AI Systems for Mental Health</h3>
+    <p class="cs4all-meta">Fall 2026</p>
+      <p>To kick off the semester, PostDoc Alissa Valentine presented her work on "Inequities in AI Systems for Mental Health".</p>
   </div>
 </div>
